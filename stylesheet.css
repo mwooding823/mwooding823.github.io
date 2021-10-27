@@ -1,0 +1,65 @@
+* {
+	font-family: Arial, Verdana, sans-serif;
+	color:  #665544;
+	text-align: center;
+}
+
+body{
+	width: 960px;
+	margin: 0 auto;
+	border: groove;
+}
+nav {
+	background-color: #E6E6FA;
+	padding: 10px;
+	margin: 10px;
+}
+
+li {
+	display: inline;
+	padding: 5px;
+}
+
+section {
+	overflow: auto;
+	height: 100%;
+}
+
+main {
+	background-color: #E6E6FA;
+	padding: 10px;
+	margin: 10px;
+}
+article {
+	background-color: #E6E6FA;
+	padding: 5px;
+	margin: 10px;
+	width: 280px;
+	float: left;
+}
+.mart {
+	background-color: #E6E6FA;
+}
+
+.mart2 {
+	width: 450px;
+}
+.mart3 {
+	font-family: fantasy;
+	color: #665544 ;
+	font-size: 25px;
+	padding: 3px;
+}
+.mart4 {
+	color: #665544 ;
+	font-family: bookman, URW Bookman L, serif;
+	font-size: 25px;
+}
+.mart5 {
+	width: 290px
+}
+
+
+
+
+
